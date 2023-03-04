@@ -1,6 +1,6 @@
 {
-  "domain": "incomfort",
-  "name": "Intergas InComfort/Intouch Lan2RF gateway - Sven",
+  "domain": "incomfort_older_client",
+  "name": "Intergas InComfort/Intouch Lan2RF gateway - Older Client",
   "codeowners": ["@zxdavb, @sven73a"],
   "documentation": "https://www.home-assistant.io/integrations/incomfort",
   "iot_class": "local_polling",
